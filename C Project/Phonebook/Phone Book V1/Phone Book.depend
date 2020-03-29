@@ -1,0 +1,295 @@
+# depslib dependency file v1.0
+1560889130 source:c:\users\dc\desktop\nes\phone book\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"types.h"
+	"phonebook.h"
+
+1560886449 c:\users\dc\desktop\nes\phone book\types.h
+
+1560887241 c:\users\dc\desktop\nes\phone book\phonebook.h
+
+1560888035 source:c:\users\dc\desktop\nes\phone book\phonebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"types.h"
+	"phonebook.h"
+	"utilities.h"
+
+1560886052 c:\users\dc\desktop\nes\phone book\utilities.h
+
+1560886037 source:c:\users\dc\desktop\nes\phone book\utilities.c
+	<string.h>
+	<ctype.h>
+	"utilities.h"
+
+1560888036 source:c:\users\lab_520\desktop\raw_data\nes - copy\phone book\phonebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"types.h"
+	"phonebook.h"
+	"utilities.h"
+
+1560886450 c:\users\lab_520\desktop\raw_data\nes - copy\phone book\types.h
+
+1560887242 c:\users\lab_520\desktop\raw_data\nes - copy\phone book\phonebook.h
+
+1560886054 c:\users\lab_520\desktop\raw_data\nes - copy\phone book\utilities.h
+
+1560886038 source:c:\users\lab_520\desktop\raw_data\nes - copy\phone book\utilities.c
+	<string.h>
+	<ctype.h>
+	"utilities.h"
+
+1560919405 source:c:\users\lab_520\desktop\raw_data\nes - copy\phone book\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"types.h"
+	"phonebook.h"
+
+1561490714 source:c:\users\dc\desktop\phone book v1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	"types.h"
+	"phonebook.h"
+
+1561234466 c:\users\dc\desktop\phone book v1\types.h
+
+1561352631 c:\users\dc\desktop\phone book v1\phonebook.h
+
+1561491224 source:c:\users\dc\desktop\phone book v1\phonebook.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"types.h"
+	"phonebook.h"
+	"utilities.h"
+
+1560886054 c:\users\dc\desktop\phone book v1\utilities.h
+
+1561302440 source:c:\users\dc\desktop\phone book v1\utilities.c
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	"utilities.h"
+
+1561234426 source:e:\17183103004\cse 100 - software development 1\pppp\phone book v1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"types.h"
+	"phonebook.h"
+
+1561234466 e:\17183103004\cse 100 - software development 1\pppp\phone book v1\types.h
+
+1561233836 e:\17183103004\cse 100 - software development 1\pppp\phone book v1\phonebook.h
+
+1560886038 source:e:\17183103004\cse 100 - software development 1\pppp\phone book v1\utilities.c
+	<string.h>
+	<ctype.h>
+	"utilities.h"
+
+1560886054 e:\17183103004\cse 100 - software development 1\pppp\phone book v1\utilities.h
+
+1561302440 source:c:\users\dc\desktop\pppp\phone book v1\utilities.c
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	"utilities.h"
+
+1560886054 c:\users\dc\desktop\pppp\phone book v1\utilities.h
+
+1561401935 source:c:\users\dc\desktop\pppp\phone book v1\phonebook.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"types.h"
+	"phonebook.h"
+	"utilities.h"
+
+1561234466 c:\users\dc\desktop\pppp\phone book v1\types.h
+
+1561352631 c:\users\dc\desktop\pppp\phone book v1\phonebook.h
+
+1561402102 source:c:\users\dc\desktop\pppp\phone book v1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	"types.h"
+	"phonebook.h"
+
+1561544987 source:c:\users\r_810_p_33\desktop\phone book v1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	"types.h"
+	"phonebook.h"
+
+1561544728 c:\users\r_810_p_33\desktop\phone book v1\types.h
+
+1561544728 c:\users\r_810_p_33\desktop\phone book v1\phonebook.h
+
+1561544963 source:c:\users\r_810_p_33\desktop\phone book v1\phonebook.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"types.h"
+	"phonebook.h"
+	"utilities.h"
+
+1560936454 c:\users\r_810_p_33\desktop\phone book v1\utilities.h
+
+1561541064 source:c:\users\r_810_p_33\desktop\phone book v1\utilities.c
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	"utilities.h"
+
+1561494587 source:c:\users\dc\desktop\latest\phone book v1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	"types.h"
+	"phonebook.h"
+
+1561579061 c:\users\dc\desktop\latest\phone book v1\types.h
+
+1561579664 c:\users\dc\desktop\latest\phone book v1\phonebook.h
+
+1561579708 source:c:\users\dc\desktop\latest\phone book v1\phonebook.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"types.h"
+	"phonebook.h"
+	"utilities.h"
+
+1560886054 c:\users\dc\desktop\latest\phone book v1\utilities.h
+
+1561490664 source:c:\users\dc\desktop\latest\phone book v1\utilities.c
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	"utilities.h"
+
+1561710117 source:c:\users\dc\desktop\final\phone book v1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	"types.h"
+	"phonebook.h"
+
+1561708485 c:\users\dc\desktop\final\phone book v1\types.h
+
+1561579664 c:\users\dc\desktop\final\phone book v1\phonebook.h
+
+1561712930 source:c:\users\dc\desktop\final\phone book v1\phonebook.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"types.h"
+	"phonebook.h"
+	"utilities.h"
+
+1560886054 c:\users\dc\desktop\final\phone book v1\utilities.h
+
+1561490664 source:c:\users\dc\desktop\final\phone book v1\utilities.c
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	"utilities.h"
+
+1561710118 source:c:\users\cs\desktop\[_black_panther_]\phone book v1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	"types.h"
+	"phonebook.h"
+
+1561708486 c:\users\cs\desktop\[_black_panther_]\phone book v1\types.h
+
+1561579666 c:\users\cs\desktop\[_black_panther_]\phone book v1\phonebook.h
+
+1561712932 source:c:\users\cs\desktop\[_black_panther_]\phone book v1\phonebook.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"types.h"
+	"phonebook.h"
+	"utilities.h"
+
+1560886054 c:\users\cs\desktop\[_black_panther_]\phone book v1\utilities.h
+
+1561490666 source:c:\users\cs\desktop\[_black_panther_]\phone book v1\utilities.c
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	"utilities.h"
+
+1561710118 source:j:\new folder\[_black_panther_]\phone book v1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	"types.h"
+	"phonebook.h"
+
+1561708486 j:\new folder\[_black_panther_]\phone book v1\types.h
+
+1561579666 j:\new folder\[_black_panther_]\phone book v1\phonebook.h
+
+1561490666 source:j:\new folder\[_black_panther_]\phone book v1\utilities.c
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	"utilities.h"
+
+1560886054 j:\new folder\[_black_panther_]\phone book v1\utilities.h
+
